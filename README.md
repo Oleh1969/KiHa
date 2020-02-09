@@ -66,11 +66,71 @@ _2:49_ 2014 **Interstellar**
 Режисер: Кристофер Нолан
 Актори: Меттью МакКонахі, Енн Гетевей, Джессіка Честейн, Вес Бентлі, Тофер Грейс, Майкл Кейн, Кейсі Аффлек, Джон Літгоу, Маккензі Фой, Коллетт Вульф 
 
-__ 2004 **Primer**
+_1:17_ 2004 **Primer**
 [baskino](http://baskino.me/films/dramy/14617-detonator-rukovodstvo.html) -
 [filmix](https://filmix.co/dramy/13053-detonator-primer-2004.html)
 Режиссер : Шэйн Кэррат
 В ролях : Шэйн Кэррат, Дэвид Салливан, Кэйси Гуден, Ананд Упадхайая, Кэрри Кроуфорд, Джей Батлер, Джон Кэррат, Хуан Тапия, Эшли Уоррен, Саманта Томсон
 
 ---
+## про смертельные эпидемии
 
+[maxim](https://www.maximonline.ru/guide/cinema/_article/10-luchshikh-filmov-pro-smertelnye-epidemii/)
+
+_:_ 1971 **The Andromeda Strain**
+[]() -
+[]()
+США , режиссер Роберт Уайз
+
+_:_ 1995 **Outbreak**
+[]() -
+[]()
+США , режиссер Вольфганг Петерсен
+
+_:_ 2003 **Cabin Fever**
+[]() -
+[]()
+режиссер Элай Рот
+
+_:_ 2008 **Carriers**
+[]() -
+[]()
+США, режиссеры Давид Пастор и Алекс Пастор
+
+_:_ 2008 **Blindness**
+[]() -
+[]()
+Канада, Бразилия, Япония, режиссер Фернанду Мейреллиш
+
+_:_ 2009 **Kansen rettô**
+[]() -
+[]()
+Япония, режиссер Такахиса Дзэдзэ
+
+_1:46_ 2011 **Contagion**
+[moviestape](http://moviestape.net/katalog_filmiv/drama/2242-zaraza.html) -
+[fs0.moviestape](http://fs0.moviestape.net/stream.php?name=films/Contagion.mp4)
+США
+Режисер: Стівен Содерберг
+Актори: Маріон Котіяр, Метт Деймон, Лоуренс Фішборн, Джуд Лоу, Гвінет Пелтроу, Кейт Вінслет. 
+
+_1:24_ 2012 **The Bay**
+[moviestape](http://moviestape.net/katalog_filmiv/trylery/9851-zatoka.html) -
+[fs0.moviestape](http://fs0.moviestape.net/stream.php?name=films/The.Bay.mp4)
+Режисер : Баррі Левінсон
+Актори : Вілл Роджерс, Крістен Конноллі, Кетер Донохью, Френк Діл, Стефан Канків, Крістофер Денхам, Ненсі Алука, Джейн МакНейлл, Майкл Біслі, Енді Став 
+
+_1:42_ 2013 **Los últimos días**
+[moviestape](http://moviestape.net/katalog_filmiv/prygody/7315-epidemija.html) -
+[fs0.moviestape](http://fs0.moviestape.net/stream.php?name=films/Los.ultimos.dias.mp4)
+Режисер : Девід Пастор, Алекс Пастор
+Актори : Кім Гутьєррес, Хосе Коронажо, Марта Етура, Летісія Долера, Мікель Іґлесіас, Іван Массаґе, Пере Вентура, Луіс Солер, Хвіда, Фара Хамед 
+
+_:_ 2013 **Gamgi**
+[]() -
+[]()
+Южная Корея, режиссер Ким Сон-су
+
+---
+
+[Мёртвые не умирают 2019](https://kinokrad.co/336301-mertvye-ne-umirayut.html)
