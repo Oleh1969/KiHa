@@ -75,34 +75,42 @@ _1:17_ 2004 **Primer**
 В ролях : Шэйн Кэррат, Дэвид Салливан, Кэйси Гуден, Ананд Упадхайая, Кэрри Кроуфорд, Джей Батлер, Джон Кэррат, Хуан Тапия, Эшли Уоррен, Саманта Томсон
 
 ---
+
 ## про смертельные эпидемии
 
-[maxim](https://www.maximonline.ru/guide/cinema/_article/10-luchshikh-filmov-pro-smertelnye-epidemii/)
-
-_:_ 1971 **The Andromeda Strain**
-[]() -
-[]()
+_2:05_ 1971 **The Andromeda Strain**
+[imdb](https://www.imdb.com/title/tt0066769/) -
+[rezka](https://rezka.ag/films/fiction/16356-shtamm-andromeda-1971.html)
+[fantasticfilm](http://fantasticfilm.ru/publ/fantasticheskie_filmy/shtamm_andromeda_1971/50-1-0-644)
+[kinoflux](http://kinoflux.org/23645-shtamm-andromeda-1971-the-andromeda-strain.html)
+[fantasyserials](http://fantasyserials.org/the-andromeda-strain-1971.php)
 США , режиссер Роберт Уайз
 
-_:_ 1995 **Outbreak**
-[]() -
-[]()
-США , режиссер Вольфганг Петерсен
+_2:08_ 1995 **Outbreak**
+[moviestape](http://moviestape.net/katalog_filmiv/drama/2697-epidemija.html) -
+[fs0.moviestape](http://fs0.moviestape.net/stream.php?name=films/Outbreak.mp4)
+Режисер: Вольфґанґ Петерсен
+Актори: **Дастін Гоффман** , Рене Руссо, **Морган Фрімен** , **Кевін Спейсі** , Кьюба Ґудінг мол., Доналд Сазерленд, Патрік Демпсі
 
-_:_ 2003 **Cabin Fever**
-[]() -
-[]()
+_1:33_ 2003 **Cabin Fever**
+[kinokrad](https://kinokrad.co/268049-lihoradka.html) -
+[filmix.co](https://filmix.co/uzhasy/16719-lihoradka-cabin-fever-2002.html) -
+[film-kino-serial](http://film-kino-serial.biz/6943-lihoradka.html)
 режиссер Элай Рот
 
-_:_ 2008 **Carriers**
-[]() -
-[]()
+_1:24_ 2009 **Carriers**
+[moviestape](http://moviestape.net/katalog_filmiv/drama/9048-zarazhennja.html) -
+[fs0.moviestape](http://fs0.moviestape.net/stream.php?name=films/Carriers.mp4)
 США, режиссеры Давид Пастор и Алекс Пастор
+Режисер: Алекс Пастор, Девід Пастор
+Актори: Лу Тейлор Пуччі, Кріс Пайн, Пайпер Перабо, Емілі ВанКемп, Крістофер Мелоні, Кірнан Шипка, Рон МакКлері, Марк Мозес, Джош Беррі, Тім Дженіс 
 
-_:_ 2008 **Blindness**
-[]() -
-[]()
+_2:01_ 2008 **Blindness**
+[moviestape](http://moviestape.net/katalog_filmiv/detektyv/5251-slipota.html) -
+[fs0.moviestape](http://fs0.moviestape.net/stream.php?name=films/Blindness.mp4)
 Канада, Бразилия, Япония, режиссер Фернанду Мейреллиш
+Режисер: Фернанду Мейрелліш
+Актори: Джуліанна Мур, Марк Руффало, Гаель Гарсія Бернал, Денні Гловер, Юсуке Ісейа, Джейсон Бермінгем, Едуардо Семірян, Дон МакКеллар, Антоніо Фрагосо 
 
 _:_ 2009 **Kansen rettô**
 []() -
@@ -128,11 +136,13 @@ _1:42_ 2013 **Los últimos días**
 Режисер : Девід Пастор, Алекс Пастор
 Актори : Кім Гутьєррес, Хосе Коронажо, Марта Етура, Летісія Долера, Мікель Іґлесіас, Іван Массаґе, Пере Вентура, Луіс Солер, Хвіда, Фара Хамед 
 
-_:_ 2013 **Gamgi**
-[]() -
+_2:03_ 2013 **Gamgi**
+[imdb](https://www.imdb.com/title/tt2351310/) -
 []()
 Южная Корея, режиссер Ким Сон-су
 
 ---
 
-[Мёртвые не умирают 2019](https://kinokrad.co/336301-mertvye-ne-umirayut.html)
+## посмотрено
+
+2019 Мёртвые не умирают [kinokrad](https://kinokrad.co/336301-mertvye-ne-umirayut.html) = 2 (по 5-ти бальной)
