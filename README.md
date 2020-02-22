@@ -1,30 +1,38 @@
 # KiHa
 
+_1:41_ 1995 **Mortal Kombat**
+[moviestape](http://moviestape.net/katalog_filmiv/bojovyky/11451-mortal-kombat.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Mortal.Kombat.mp4)
+Режисер: Пол Андерсон
+Актори: Лінден Ешбі, Кері-Хіроюкі Таґава, Робін Шу, Бріджет Вілсон, Таліса Сото, Тревор Ґодард, Крістофер Ламберт 
+
+---
+
 ## sci-fi
 
 1956 Invasion of the Body Snatchers [wikipedia](https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers)
 
 _1:56_ 1978 **Invasion of the Body Snatchers**
 [moviesTape](http://moviestape.net/katalog_filmiv/zhahy/10595-vtorgnennja-vykradachiv-til.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Invasion.of.the.Body.Snatchers.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Invasion.of.the.Body.Snatchers.mp4)
 Режисер : Філіп Кауфман
 Актори : Дональд Сазерленд, Брук Адамс, Джефф Ґолдблюм, Вероніка Картврайт, **Леонард Німой** 
 
 _1:36_ 2002 **The Time Machine** 
 [moviesTape](http://moviestape.net/katalog_filmiv/bojovyky/9362-mashyna-chasu.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/The.Time.Machine.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/The.Time.Machine.mp4)
 Режисер : Саймон Веллс
 Актори : Гай Пірс, Саманта Мамба, Орландо Джонс, Марк Едді, Джеремі Айронс, Сієнна Гіллорі, Макс Бейкер, Філліда Ло, Лаура Кірк, Джош Стемберг 
 
 _1:30_ 1986 **Flight of the Navigator**
 [moviesTape](http://moviestape.net/katalog_filmiv/prygody/3420-polit-navigatora.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Flight.of.the.Navigator.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Flight.of.the.Navigator.mp4)
 Режисер : Рендал Клайзер .
 Актори: Джої Крамер, Пол Рубенс, Вероніка Картрайт, Кліфф Де Янг, _Сара Джесіка Паркер_, Метт Адлер, Ховард Хессеман, Роберт Смолл, Елбі Вайтакер, Джонатан Сенгер .
 
 _1:37_ 2013 **Predestination**
 [moviesTape](http://moviestape.net/katalog_filmiv/detektyv/7462-pryznachennja.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Predestination.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Predestination.mp4)
 Режисер : Майкл Спіріг, Пітер Спіріг .
 Актори : Ітан Гоук, Сара Снук, Ноа Тейлор, Крістофер Кірбі, Крістофер Соммерс, Куні Хасімото, Сара Ель-Яафі, Пол Модер, Грант Піро, Крістофер Бануорс 
 
@@ -34,37 +42,37 @@ _1:19_ 2009 **Frequently Asked Questions About Time Travel**
 
 _1:25_ 2012 **Safety Not Guaranteed**
 [moviesTape](http://moviestape.net/katalog_filmiv/drama/4419-bezpeka-ne-garantujetsja.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Safety.Not.Guaranteed.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Safety.Not.Guaranteed.mp4)
 Режисер : Колін Треворроу .
 Актори : Обрі Плаза, Безіл Гарріс, Мері Лінн Реджскаб, Джейк Джонсон, Каран Соні, Марк Даплес, Дженіка Бержер, Вільям Голл мол. 
 
 _1:53_ 2001 **Donnie Darko**
 [moviesTape](http://moviestape.net/katalog_filmiv/detektyv/2780-donni-darko.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Donnie.Darko.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Donnie.Darko.mp4)
 Режисер : Річард Келлі
 Актори : Джейк Джилленгол, Джена Мелоун, Меггі Джилленгол, Джеймс Дювал, Патрік Свейзі, Ноа Вайл, Дрю Беррімор, Сет Роген, Кетрін Росс, Мері Макдоннелл
 
 _1:56_ 2016 **Arrival**
 [moviesTape](http://moviestape.net/katalog_filmiv/detektyv/9188-pributtya.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Arrival.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Arrival.mp4)
 Режисер : Дені Вільнев
 Актори : Емі Адамс, Джеремі Реннер, Майкл Стулбарг, Форест Вітакер, Сангіта Патель, Ци Ма, Ебігейл Пнёвскі, Марк О'Брайен, Рут Чіанг, Джейдін Мелоун 
 
 _1:53_ 2012 **Looper**
 [moviesTape](http://moviestape.net/katalog_filmiv/bojovyky/3687-petlya-chasu.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Looper.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Looper.mp4)
 Режисер: Райан Джонсон
 Актори: Джозеф Ґордон-Левітт, **Брюс Вілліс**, Емілі Блант, Пайпер Перабо, Гаррет Діллахант, Джефф Деніелс, Пол Дано, Трейсі Томс, Пірс Генон 
 
 _2:09_ 1995 **Twelve Monkeys**
 [moviesTape](http://moviestape.net/katalog_filmiv/detektyv/2814-dvanadcjat-mavp.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Twelve.Monkeys.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Twelve.Monkeys.mp4)
 Режисер: Террі Гілльям
 Актори: **Брюс Вілліс** , Бред Пітт, Меделін Стоу, Джозеф Меліто, Джон Седа, Майкл Ченс, Вернон Кемпбелл, Х. Майкл Воллс, Боб Адріан, Саймон Джонс, Крістофер Мелоні, Крістофер Пламмер, Девід Морс 
 
 _2:49_ 2014 **Interstellar**
 [moviesTape](http://moviestape.net/katalog_filmiv/prygody/6636-interstellar.html) -
-[fs0.moviesTape](http://fs0.moviestape.net/stream.php?name=films/Interstellar.mp4)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Interstellar.mp4)
 Режисер: Кристофер Нолан
 Актори: Меттью МакКонахі, Енн Гетевей, Джессіка Честейн, Вес Бентлі, Тофер Грейс, Майкл Кейн, Кейсі Аффлек, Джон Літгоу, Маккензі Фой, Коллетт Вульф 
 
@@ -73,6 +81,44 @@ _1:17_ 2004 **Primer**
 [filmix](https://filmix.co/dramy/13053-detonator-primer-2004.html)
 Режиссер : Шэйн Кэррат
 В ролях : Шэйн Кэррат, Дэвид Салливан, Кэйси Гуден, Ананд Упадхайая, Кэрри Кроуфорд, Джей Батлер, Джон Кэррат, Хуан Тапия, Эшли Уоррен, Саманта Томсон
+
+---
+
+## Steampunk
+
+_1:46_ 1999 **Wild Wild West**
+[moviestape](http://moviestape.net/katalog_filmiv/bojovyky/1664-dykyj-dykyj-vest.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Wild.Wild.West.mp4)
+Режисер: Барі Сонненфельд
+Актори: Вілл Сміт, Кевін Клайн, Кеннет Брена, Сальма Хайєк, М. Еммет Волш, Тед Левайн, Фредерік ван дер Вал, Музетта Вандер, Софія Енг
+
+_2:06_ 2001 **Hugo**
+[moviestape](http://moviestape.net/katalog_filmiv/detektyv/2023-hranitel-chasu.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Hugo.mp4)
+Режисер: Мартін Скорсезе
+Актори: Хлоя Грейс Морец, Джуд Лоу, Емілі Мортімер, Крістофер Лі, Бен Кінґслі, Рей Вінстон, Саша Барон Коен, Річард Гріффітс, Хелен МакКрорі, Аса Баттерфілд, Френсіс де ла Тур, Майкл Сталберг, Ангус Барнетт 
+
+_1:46_ 2013 **The Zero Theorem**
+[moviestape](http://moviestape.net/katalog_filmiv/drama/10954-teorema-zero.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/The.Zero.Theorem.mp4)
+Режисер: Террі Гілліам
+Актори: Крістоф Вальц, Мелані Тьєррі, Девід Тьюліс, Лукас Хеджес, Метт Деймон, Бен Вішоу, Тільда Суінтон, Санджив Бхаскар, Інгрід Бису, Маргаріта Дойл, Петер Стормаре 
+
+---
+
+## musical
+
+_1:25_ 1987 **Hansel and Gretel**
+[moviestape](http://moviestape.net/katalog_filmiv/muzuchni/12717-genzel-retel.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Hansel.and.Gretel.1987.mp4)
+Режисер: Лен Талан
+Актори: Девід Ворнер, Хью Поллард, Ніколя Степлтон, Эмілі Річард, Клоріс Лічмен 
+
+_1:39_ 2009 **Nowhere Boy**
+[moviestape](http://moviestape.net/katalog_filmiv/drama/1216-stati-dzhonom-lennonom.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Nowhere.Boy.mp4)
+Режисер: Сем Тейлор Вуд
+Актори: Аарон Джонсон, Крістін Скотт Томас, Девід Трелфолл, Джош Болт, Офелія Ловібонд, Керрі Хейес, Анджела Волш, Пол Ріттер, Річард Сімс, Енн-Мері Дафф 
 
 ---
 
