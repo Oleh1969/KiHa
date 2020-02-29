@@ -1,4 +1,13 @@
-# KiHa
+KiHa
+
+---
+
+| [sci-fi](./sci-fi.md)
+| [comédie française](./comedieF.md)
+| [melodrama](melodram.md)
+|
+
+---
 
 1995 **Mortal Kombat** _1:41_
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/11451-mortal-kombat.html)
@@ -11,13 +20,6 @@
 [fs0](http://fs0.moviestape.net/stream.php?name=films/The.Deep.End.of.the.Ocean.mp4)
 Режисер: Улу Гросбард
 Актори: _Мішель Пфайффер_, Тріт Уільямс, Вупі Голдберг, Джонатан Джексон, Корі Бак, Райан Мерріман, Алекса Вега, Майкл МакГрейді, Бренда Стронг, Майкл МакЕлрой 
-
----
-
-| [sci-fi](./sci-fi.md)
-| [comédie française](./comedieF.md)
-| [melodrama](melodram.md)
-|
 
 ---
 
