@@ -1,15 +1,5 @@
 # KiHa
 
-_:_ ** **
-[moviestape]()
-[fs0]()
-
-
-_:_ ** **
-[moviestape]()
-[fs0]()
-
-
 _1:41_ 1995 **Mortal Kombat**
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/11451-mortal-kombat.html)
 [fs0](http://fs0.moviestape.net/stream.php?name=films/Mortal.Kombat.mp4)
@@ -21,10 +11,6 @@ _1:48_ 1999 **The Deep End of the Ocean**
 [fs0](http://fs0.moviestape.net/stream.php?name=films/The.Deep.End.of.the.Ocean.mp4)
 Режисер: Улу Гросбард
 Актори: _Мішель Пфайффер_, Тріт Уільямс, Вупі Голдберг, Джонатан Джексон, Корі Бак, Райан Мерріман, Алекса Вега, Майкл МакГрейді, Бренда Стронг, Майкл МакЕлрой 
-
-_:_ ** **
-[moviestape]()
-[fs0]()
 
 ---
 
@@ -162,3 +148,6 @@ _1:39_ 2009 **Nowhere Boy**
 Режисер: Сем Тейлор Вуд
 Актори: Аарон Джонсон, Крістін Скотт Томас, Девід Трелфолл, Джош Болт, Офелія Ловібонд, Керрі Хейес, Анджела Волш, Пол Ріттер, Річард Сімс, Енн-Мері Дафф  = 3+ (по 5-ти бальной)
 
+_:_  **#**
+[moviestape]()
+[fs0]()
