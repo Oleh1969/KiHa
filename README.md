@@ -1,5 +1,14 @@
 # KiHa
 
+---
+
+| [sci-fi](./sci-fi.md)
+| [comédie française](./comedieF.md)
+| [melodrama](melodram.md)
+|
+
+---
+
 _1:41_ 1995 **Mortal Kombat**
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/11451-mortal-kombat.html)
 [fs0](http://fs0.moviestape.net/stream.php?name=films/Mortal.Kombat.mp4)
@@ -11,12 +20,6 @@ _1:48_ 1999 **The Deep End of the Ocean**
 [fs0](http://fs0.moviestape.net/stream.php?name=films/The.Deep.End.of.the.Ocean.mp4)
 Режисер: Улу Гросбард
 Актори: _Мішель Пфайффер_, Тріт Уільямс, Вупі Голдберг, Джонатан Джексон, Корі Бак, Райан Мерріман, Алекса Вега, Майкл МакГрейді, Бренда Стронг, Майкл МакЕлрой 
-
----
-
-| [sci-fi](./sci-fi.md)
-| [comédie française](./comedieF.md)
-| [melodrama](melodram.md)
 
 ---
 
@@ -82,7 +85,7 @@ _2:08_ 1995 **Outbreak**
 [moviestape](http://moviestape.net/katalog_filmiv/drama/2697-epidemija.html) -
 [fs0.moviestape](http://fs0.moviestape.net/stream.php?name=films/Outbreak.mp4)
 Режисер: Вольфґанґ Петерсен
-Актори: **Дастін Гоффман** , Рене Руссо, **Морган Фрімен** , **Кевін Спейсі** , Кьюба Ґудінг мол., Доналд Сазерленд, Патрік Демпсі
+Актори: **Дастін Гоффман** , Рене Руссо, **Морган Фрімен** , **Кевін Спейсі** , Кьюба Ґудінг мол., Доналд Сазерленд, Патрік Демпсі = 4 (по 5-ти бальной)
 
 _1:33_ 2003 **Cabin Fever**
 [kinokrad](https://kinokrad.co/268049-lihoradka.html) -
@@ -142,11 +145,11 @@ _2:03_ 2013 **Gamgi**
 
 2019 Мёртвые не умирают [kinokrad](https://kinokrad.co/336301-mertvye-ne-umirayut.html) = 2 (по 5-ти бальной)
 
-_1:39_ 2009 **Nowhere Boy**
+_1:39_ 2009 **Nowhere Boy** (як стати Джоном Леноном)
 [moviestape](http://moviestape.net/katalog_filmiv/drama/1216-stati-dzhonom-lennonom.html)
 [fs0](http://fs0.moviestape.net/stream.php?name=films/Nowhere.Boy.mp4)
 Режисер: Сем Тейлор Вуд
-Актори: Аарон Джонсон, Крістін Скотт Томас, Девід Трелфолл, Джош Болт, Офелія Ловібонд, Керрі Хейес, Анджела Волш, Пол Ріттер, Річард Сімс, Енн-Мері Дафф  = 3+ (по 5-ти бальной)
+Актори: Аарон Джонсон, Крістін Скотт Томас, Девід Трелфолл, Джош Болт, Офелія Ловібонд, Керрі Хейес, Анджела Волш, Пол Ріттер, Річард Сімс, Енн-Мері Дафф = 3+ (по 5-ти бальной)
 
 _:_  **#**
 [moviestape]()
