@@ -4,7 +4,21 @@ KiHa
 
 | [sci-fi](./sci-fi.md)
 | [comédie française](./comedieF.md)
-| [melodrama](melodram.md)
+| [melodrama](./melodram.md)
+|
+
+---
+
+| [top 15 of 2019](https://www.slashfilm.com/slashfilms-top-15-movies-of-2019/)
+| [comédie française](https://www.maximonline.ru/guide/cinema/_article/french-comedies/)
+| [top100 maxim.ru](https://www.maximonline.ru/guide/cinema/_article/100-luchshih-komediy-vseh-vremen-i-narodov/)
+| [top9 ussr cartoon](https://www.maximonline.ru/guide/cinema/_article/9-luchshikh-kukolnykh-sovetskikh-multfilmov/)
+| [top8 serial detectiv](https://www.maximonline.ru/guide/cinema/_article/8-otlichnykh-detektivnykh-serialov-kotorye-ty-mog-propustit/)
+| [korea](https://www.maximonline.ru/guide/cinema/_article/south-korea-movies-best/)
+| [top12 hi-cinemas](https://www.maximonline.ru/guide/cinema/_article/12-acceptable-hi-cinemas/)
+| [indieWire top](https://www.maximonline.ru/guide/cinema/_article/indiewire-top-films/)
+| [13 timeLoop](https://www.maximonline.ru/guide/cinema/_article/mnogo-filmov-po-obrazu-dnya-surka/)
+| [top25 postapo](https://www.maximonline.ru/guide/cinema/_article/postapocalyptic-films-rating/)
 |
 
 ---
@@ -12,8 +26,8 @@ KiHa
 1995 **Mortal Kombat** 1:41
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/11451-mortal-kombat.html)
 [fs0](http://fs0.moviestape.net/stream.php?name=films/Mortal.Kombat.mp4)
-Режисер: Пол Андерсон
-Актори: Лінден Ешбі, Кері-Хіроюкі Таґава, Робін Шу, Бріджет Вілсон, Таліса Сото, Тревор Ґодард, _Крістофер Ламберт_ 
+_Режисер_ : Пол Андерсон
+_Актори_ : Лінден Ешбі, Кері-Хіроюкі Таґава, Робін Шу, Бріджет Вілсон, Таліса Сото, Тревор Ґодард, **Крістофер Ламберт**
 
 1999 **The Deep End of the Ocean** 1:48
 [moviestape](http://moviestape.net/katalog_filmiv/drama/12740-u-bezodn-okeanu.html)
