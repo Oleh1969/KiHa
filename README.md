@@ -28,9 +28,9 @@ _:_ ** **
 
 ---
 
-[sci-fi](./sci-fi.md)
-[comédie française](./comedieF.md)
-[melodrama](melodram.md)
+| [sci-fi](./sci-fi.md)
+| [comédie française](./comedieF.md)
+| [melodrama](melodram.md)
 
 ---
 
