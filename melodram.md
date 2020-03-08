@@ -8,6 +8,14 @@
 Режисер: **Чарлз Чаплін**
 Актори: _Марлон Брандо , Софі Лорен_ , Сідні Чаплін, Тіппі Хедрен, Патрік Карджіл 
 
+2005 **Pride & Prejudice** 2:08 
+[moviestape](http://moviestape.net/katalog_filmiv/drama/5418-gordist-ta-uperedzhennja.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Pride.Prejudice.mp4)
+Режисер: Джо Райт
+Актори: Кіра Найтлі, Меттью Макфейден, Розамунд Пайк, Саймон Вудс, Дональд Сазерленд, Бренда Блетін, Джена Мелоун, Кері Малліган, Талула Райлі, Том Холландер, Джуді Денч
+
+---
+
 ## comic melodrama
 
 2010 **Leap Year** 1:40
@@ -20,4 +28,3 @@
   **#**
 [moviestape]()
 [fs0.]()
-[xx](https://write.as/zjtz2mginam3zwfl.md)
