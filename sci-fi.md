@@ -1,5 +1,11 @@
 # sci-fi
 
+| [13 timeLoop](https://www.maximonline.ru/guide/cinema/_article/mnogo-filmov-po-obrazu-dnya-surka/)
+| [top25 postapo](https://www.maximonline.ru/guide/cinema/_article/postapocalyptic-films-rating/)
+|
+
+---
+
 ## legacy
 
 1956 **Invasion of the Body Snatchers** _1:20_
