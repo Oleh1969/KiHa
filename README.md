@@ -13,7 +13,6 @@ KiHa
 | [comédie française](https://www.maximonline.ru/guide/cinema/_article/french-comedies/)
 | [top100 maxim.ru](https://www.maximonline.ru/guide/cinema/_article/100-luchshih-komediy-vseh-vremen-i-narodov/)
 | [top9 ussr cartoon](https://www.maximonline.ru/guide/cinema/_article/9-luchshikh-kukolnykh-sovetskikh-multfilmov/)
-| [top8 serial detectiv](https://www.maximonline.ru/guide/cinema/_article/8-otlichnykh-detektivnykh-serialov-kotorye-ty-mog-propustit/)
 | [korea](https://www.maximonline.ru/guide/cinema/_article/south-korea-movies-best/)
 | [top12 hi-cinemas](https://www.maximonline.ru/guide/cinema/_article/12-acceptable-hi-cinemas/)
 | [indieWire top](https://www.maximonline.ru/guide/cinema/_article/indiewire-top-films/)
@@ -137,22 +136,6 @@ _Актори_ : Кім Гутьєррес, Хосе Коронажо, Март�
 [fs0](http://fs0.moviestape.net/stream.php?name=films/Hansel.and.Gretel.1987.mp4)
 Режисер: Лен Талан
 Актори: Девід Ворнер, Хью Поллард, Ніколя Степлтон, Эмілі Річард, Клоріс Лічмен 
-
----
-
-## serial
-
-**Okkupert**
-[moviestape](http://moviestape.net/katalog_serialiv/dramy/9079-okupovani.html)
-[fs](http://fs.moviestape.net/stream.php?pl=Okkupert)
-Режисер: Йон Андреас Андерсен, Ерік Шьолдбьерг, Поль Слетауне
-Актори: Генрік Местад, Інґеборґа Дапкунайте, Крістін Браут-Солгейм, Селоме Емнету, Раґнгільд Ґудбрандсен, Ельдар Скар, Ан Дал Торп 
-
-**The Little Drummer Girl**
-[moviestape](http://moviestape.net/katalog_serialiv/dramy/11235-mala-barabanschicya.html)
-[fs](http://fs.moviestape.net/stream.php?pl=The.Little.Drummer.Girl)
-Режисер: Чхан Ук Пак
-Актори: Флоренс П'ю, Олександр Скарсгард, Майкл Шеннон, Майкл Мошонов, Сімона Браун, Клер Холман, Кейт Самптер, Амір Хурі, Катаріна Шюттлера 
 
 ---
 
