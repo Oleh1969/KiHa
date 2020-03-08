@@ -23,17 +23,15 @@ KiHa
 
 ---
 
-2005 **Pride & Prejudice** 2:08 
-[moviestape](http://moviestape.net/katalog_filmiv/drama/5418-gordist-ta-uperedzhennja.html)
-[fs0](http://fs0.moviestape.net/stream.php?name=films/Pride.Prejudice.mp4)
-Режисер: Джо Райт
-Актори: Кіра Найтлі, Меттью Макфейден, Розамунд Пайк, Саймон Вудс, Дональд Сазерленд, Бренда Блетін, Джена Мелоун, Кері Малліган, Талула Райлі, Том Холландер, Джуді Денч
-
 1995 **Mortal Kombat** 1:41
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/11451-mortal-kombat.html)
 [fs0](http://fs0.moviestape.net/stream.php?name=films/Mortal.Kombat.mp4)
 _Режисер_ : Пол Андерсон
 _Актори_ : Лінден Ешбі, Кері-Хіроюкі Таґава, Робін Шу, Бріджет Вілсон, Таліса Сото, Тревор Ґодард, **Крістофер Ламберт**
+
+1964 **Rękopis znaleziony w Saragossie** 3:02
+[imdb](https://www.imdb.com/title/tt0059643/)
+[PL](https://www.filmweb.pl/Rekopis.Znaleziony.W.Saragossie)
 
 ---
 
