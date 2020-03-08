@@ -4,7 +4,7 @@ KiHa
 
 | [serial](./serial.md)
 | [sci-fi](./sci-fi.md)
-| [comedy](./comedie.md)
+| [comedy](./comedy.md)
 | [comédie française](./comedieF.md)
 | [melodrama](./melodram.md)
 | [musical](./musical.md)
