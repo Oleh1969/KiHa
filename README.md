@@ -6,6 +6,8 @@ KiHa
 | [sci-fi](./sci-fi.md)
 | [comédie française](./comedieF.md)
 | [melodrama](./melodram.md)
+| [musical](./musical.md)
+| [detectiv](./detectiv.md)
 |
 
 ---
