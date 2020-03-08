@@ -6,7 +6,10 @@
 
 ## detectiv
 
+| [top8 maxim](https://www.maximonline.ru/guide/cinema/_article/8-otlichnykh-detektivnykh-serialov-kotorye-ty-mog-propustit/)
+|
 
+В тени таких детективных сериальных монстров, как «Мост», «Убийство», «Настоящий детектив», «Фарго» и прочих «Острых предметов», ты мог их не заметить. 
 
 ---
 
