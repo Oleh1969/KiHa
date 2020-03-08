@@ -18,9 +18,17 @@ KiHa
 | [korea](https://www.maximonline.ru/guide/cinema/_article/south-korea-movies-best/)
 | [top12 hi-cinemas](https://www.maximonline.ru/guide/cinema/_article/12-acceptable-hi-cinemas/)
 | [indieWire top](https://www.maximonline.ru/guide/cinema/_article/indiewire-top-films/)
+| [rus](https://www.maximonline.ru/guide/cinema/_article/good-russian-movies/)
+| [best 15](https://www.maximonline.ru/guide/cinema/_article/bombed-great-films/)
 |
 
 ---
+
+1989 **Road House** 1:56
+[moviestape](http://moviestape.net/katalog_filmiv/bojovyky/6613-pridorozhny-klub.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Road.House.mp4)
+Режисер : Роуді Херрінгтон
+Актори : _Патрік Свейзі_ , Келлі Лінч, Сем Елліотт, Бен Газзара, Маршалл Р. Тіг, Джулі Майклс, Ред Вест, Саншайн Паркер, Джефф Хілі, Кевін Тай 
 
 1995 **Mortal Kombat** 1:41
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/11451-mortal-kombat.html)
