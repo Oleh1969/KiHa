@@ -13,6 +13,10 @@ KiHa
 
 ---
 
+| [best 2017 maxim](https://www.maximonline.ru/guide/cinema/_article/best-movies-and-tvs-of-2017/)
+| [top10 2017](https://www.maximonline.ru/guide/cinema/_article/best-movies-of-2017/)
+| [top100 slant](https://www.maximonline.ru/guide/cinema/_article/best-fantastic-slant/)
+| [by year](https://www.maximonline.ru/guide/cinema/_article/best-movies-by-the-year/)
 | [top 15 of 2019](https://www.slashfilm.com/slashfilms-top-15-movies-of-2019/)
 | [top100 maxim.ru](https://www.maximonline.ru/guide/cinema/_article/100-luchshih-komediy-vseh-vremen-i-narodov/)
 | [top9 ussr cartoon](https://www.maximonline.ru/guide/cinema/_article/9-luchshikh-kukolnykh-sovetskikh-multfilmov/)
