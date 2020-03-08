@@ -11,14 +11,11 @@ KiHa
 ---
 
 | [top 15 of 2019](https://www.slashfilm.com/slashfilms-top-15-movies-of-2019/)
-| [comédie française](https://www.maximonline.ru/guide/cinema/_article/french-comedies/)
 | [top100 maxim.ru](https://www.maximonline.ru/guide/cinema/_article/100-luchshih-komediy-vseh-vremen-i-narodov/)
 | [top9 ussr cartoon](https://www.maximonline.ru/guide/cinema/_article/9-luchshikh-kukolnykh-sovetskikh-multfilmov/)
 | [korea](https://www.maximonline.ru/guide/cinema/_article/south-korea-movies-best/)
 | [top12 hi-cinemas](https://www.maximonline.ru/guide/cinema/_article/12-acceptable-hi-cinemas/)
 | [indieWire top](https://www.maximonline.ru/guide/cinema/_article/indiewire-top-films/)
-| [13 timeLoop](https://www.maximonline.ru/guide/cinema/_article/mnogo-filmov-po-obrazu-dnya-surka/)
-| [top25 postapo](https://www.maximonline.ru/guide/cinema/_article/postapocalyptic-films-rating/)
 |
 
 ---
