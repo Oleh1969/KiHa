@@ -1,6 +1,7 @@
 # detectiv
 
-
+| [Сrimereads 20](https://www.maximonline.ru/guide/cinema/_article/20-nedoocenennykh-kinodetektivov-desyatiletiya-po-mneniyu-cenitelei-zhanra/)
+|
 
 ---
 
