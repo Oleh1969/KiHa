@@ -1,6 +1,8 @@
 # detectiv
 
 | [Сrimereads 20](https://www.maximonline.ru/guide/cinema/_article/20-nedoocenennykh-kinodetektivov-desyatiletiya-po-mneniyu-cenitelei-zhanra/)
+| [11 true story](https://www.maximonline.ru/guide/cinema/_article/crime-films-true-events/)
+| [radio USSR](https://www.maximonline.ru/guide/music/_article/28-prevoskhodnykh-sovetskikh-i-rossiiskikh-detektivnykh-radiospektaklei-kotorye-mozhno-poslushat-pryamo-seichas/)
 |
 
 ---
