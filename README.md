@@ -25,7 +25,12 @@ KiHa
 | [indieWire top](https://www.maximonline.ru/guide/cinema/_article/indiewire-top-films/)
 | [rus](https://www.maximonline.ru/guide/cinema/_article/good-russian-movies/)
 | [best 15](https://www.maximonline.ru/guide/cinema/_article/bombed-great-films/)
+|
+
+---
+
 | [Every Best Cinematography Winner. Ever. (1929-2017 Oscars)](https://youtu.be/qqvblRXwWVo)
+| [bombshell](https://youtu.be/VqdWqBNoMl4)
 |
 
 ---
