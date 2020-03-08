@@ -1,8 +1,11 @@
 # sci-fi
 
+| [top11 short](https://www.maximonline.ru/guide/cinema/_article/fantastic-short-films/)
 | [13 timeLoop](https://www.maximonline.ru/guide/cinema/_article/mnogo-filmov-po-obrazu-dnya-surka/)
 | [top25 postapo](https://www.maximonline.ru/guide/cinema/_article/postapocalyptic-films-rating/)
-| []()
+| [top20 robotics](https://www.maximonline.ru/guide/cinema/_article/robot-movies/)
+| [top20 euro](https://www.maximonline.ru/guide/cinema/_article/european-sci-fi/)
+| [alien](https://www.maximonline.ru/longreads/get-smart/_article/weirdest-movies-about-alien/)
 |
 
 ---
