@@ -99,11 +99,15 @@ _Актори_ : [Шон Коннері](http://moviestape.net/persons/595-shon-
 Режисер: Роджер Споттісвуд
 Актори: **Пірс Броснан** , Джонатан Прайс, Мішель Йео , Тері Хетчер , Ріккі Джей , Готц Отто , Джо Дон Бейкер , Вінсент Скявеллі , Джуді Денч , Дезмонд Льюелін , **Джерард Батлер** , [Samantha Bond](https://www.imdb.com/name/nm0094039/)
 
+---
+
+Neal Purvis & Robert Wade . Neal Purvis & Robert Wade and Bruce Feirstein
+
 1999 **The World Is Not Enough** 2:08
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/5283-i-cilogo-svitu-malo.html)
 [fs0](http://fs0.moviestape.net/stream.php?name=films/The.World.Is.Not.Enough.mp4)
 Режисер: Майкл Ептед
-Актори: **Пірс Броснан** , **Софі Марсо** , Роберт Карлайл , **Деніз Річардс** , Роббі Колтрейн, Джуді Денч, Десмонд Ллевелін, Джон Кліз, Марія Грація Кучінотта , [Samantha Bond](https://www.imdb.com/name/nm0094039/)
+Актори: [Пірс Броснан](http://moviestape.net/persons/7082-pierce-brosnan.html) [Pierce Brosnan](https://www.imdb.com/name/nm0000112/) , [Софі Марсо](http://moviestape.net/persons/5846-sophie-marceau.html) [Sophie Marceau](https://www.imdb.com/name/nm0000521/) , Роберт Карлайл , [Деніз Річардс](http://moviestape.net/persons/5417-denise-richards.html) [Denise Richards](https://www.imdb.com/name/nm0000612/) , Роббі Колтрейн, Джуді Денч, Десмонд Ллевелін, Джон Кліз, Марія Грація Кучінотта [Maria Grazia Cucinotta](https://www.imdb.com/name/nm0002029/) , [Samantha Bond](https://www.imdb.com/name/nm0094039/)
 
 2002 **Die Another Day** 2:18
 [moviestape](http://moviestape.net/katalog_filmiv/bojovyky/5284-pomry-ale-ne-zaraz.html)
@@ -124,3 +128,5 @@ _Актори_ : [Шон Коннері](http://moviestape.net/persons/595-shon-
 2015 **Spectre** 2:28
 
 2020 **No Time to Die** 2:43
+
+[^](# Action Adventure)
