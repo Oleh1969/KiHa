@@ -9,6 +9,7 @@ KiHa
 | [melodrama](./melodram.md)
 | [musical](./musical.md)
 | [detectiv](./detectiv.md)
+| [action adventure](./actioAdv.md)
 |
 
 ---
