@@ -1,4 +1,4 @@
-# sci-fi
+# science fiction
 
 | [top11 short](https://www.maximonline.ru/guide/cinema/_article/fantastic-short-films/)
 | [13 timeLoop](https://www.maximonline.ru/guide/cinema/_article/mnogo-filmov-po-obrazu-dnya-surka/)
@@ -112,6 +112,13 @@
 Актори: Крістоф Вальц, Мелані Тьєррі, Девід Тьюліс, Лукас Хеджес, Метт Деймон, Бен Вішоу, Тільда Суінтон, Санджив Бхаскар, Інгрід Бису, Маргаріта Дойл, Петер Стормаре 
 
 ---
+
+## horror
+
+2009 **Splice** 1:44
+[moviesTape](http://moviestape.net/katalog_filmiv/zhahy/2093-hymera.html)
+[fs0](http://fs0.moviestape.net/stream.php?name=films/Splice.mp4)
+[Delphine Chanéac](https://www.imdb.com/name/nm0152035/)
 
  **#** _:_
 [moviesTape]()
